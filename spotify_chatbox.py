@@ -1,5 +1,7 @@
-"""Small example OSC client
-"""
+'''
+Script for putting current Spotify track info into VRC Chatbox
+'''
+
 from time import sleep
 from random import Random
 from pythonosc import udp_client
